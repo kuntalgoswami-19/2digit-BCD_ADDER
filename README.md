@@ -1,4 +1,3 @@
-
 🔢 2-Digit BCD Adder
 📖 About the Project
 
